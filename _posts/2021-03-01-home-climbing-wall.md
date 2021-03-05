@@ -13,9 +13,17 @@ title:  Building a Home Climbing Wall
 {% include image.html img="IMG_1464.jpg" alt="The home wall" caption="The home wall" text-align="center" %}
 
 
-A lot of homeWall writeups and youtube went into the final making of mine, but if there is 2 that were mostly used as inspiration, they are probably [this one][freestanding-wall-30deg] and [that one][freestanding-wall-top-panel].
+A lot of home wall writeups and youtube went into the final making of mine, but if there are two that were mostly used as base for my model, they are probably [this one][freestanding-wall-30deg] and [that one][freestanding-wall-top-panel].
 
 
+**Note**: I provide some diagram with measurements.... but most of the actual measurement calculations were made on some scratch pad while building the wall..... I have drawn cleaner design on paper after having built the wall, and reported measurements based on what is built, so those numbers may be slightly off... I would recommend that you use them as a reference, but probably don't go crazy and cut your lumber based on those numbers. Do doublecheck before you cut too short :D.
+
+
+# Requirements
+
+When I built this wall, I wanted it to be:
+- Freestanding: my garage has a lot of storage along the walls which I did not want to rip out, I was not confident in using the ceiling beams to attached to and did not want to call a structural engineer to validate they would be OK.
+- Indoor: being indoor, I did not bother treating the wood or using weather-proof screws.
 
 # Bill of Material
 
@@ -37,7 +45,7 @@ This is exactly what was used to build the wall:
 | 4 | [3/8"-16x5 hex bolt](https://www.homedepot.com/p/Everbilt-3-8-in-16-x-5-in-Zinc-Plated-Hex-Bolt-800906/204645573) | attaching frame to the side supports |
 | 4 | [3/8"-16 hex nut](https://www.homedepot.com/p/Everbilt-3-8-in-16-Zinc-Plated-Hex-Nut-25-Pack-802364/204274093) | |
 | 8 | [3/8" Flat washer](https://www.homedepot.com/p/Everbilt-3-8-in-Zinc-Plated-Flat-Washer-25-Pack-802324/204276362) | |
-| 4 | [3/8"-16 T-Nuts](https://www.amazon.com/gp/product/B06XBRKYHC/) | |
+| 4 | [3/8"-16 T-Nuts 100-pack](https://www.amazon.com/gp/product/B06XBRKYHC/) | |
 
 # Tools
 
@@ -55,13 +63,10 @@ You may already have them home, but here are useful tools to have:
 * [Clamps](https://www.homedepot.com/p/DEWALT-Medium-and-Large-Trigger-Clamp-4-Pack-DWHT83196/205086878)
 
 
-# Note
-
-I provide some diagram with measurements.... but most of the actual measurement calculations were made on some scratch pad while building the wall..... I have drawn cleaner design on paper after having built the wall, and reported measurements based on what is built, so those numbers may be slightly off... I would recommend that you use them as a reference, but probably don't go crazy and cut your lumber based on those numbers. Do doublecheck before you cut too short :D.
 
 # Building it up
 
-I started by building the side supports and assembling them, then the main wall panel. Once those two pieces were done, I assembled the frame and support together. Next was to add the blocking to the frame and mount the plywood on the wall.
+I started by building the side supports and assembling them, then the main wall framework. Once those two pieces were done, I assembled the frame and supports together. Next was to add the blocking to the frame and mount the plywood on the wall.
 
 Finally, building the top panel and attaching the side panels.
 
@@ -69,16 +74,16 @@ Finally, building the top panel and attaching the side panels.
 
 I started by building the side supports. The supports are used to:
 
-* hold the wall up
+* hold the wall framework up
 * prevent the wall from tilting forward
 
-The supports will be attached to wall frame using 1 hex bolt near the bottom, and 1 near the top.
+The supports will be attached to the wall frame using 1 hex bolt near the bottom, and 1 near the top.
 
 The wall's top plate, which has 1 foot wings on each side, is also resting on the supports and screwed using 3" screws.
 
 The supports and the frame are not directly in contact, but a spacing of about 3/4" will be left so we can slide the side panels later.
 
-Here is a rough diagram of what the 3 pieces of lumber that make up a side support look like.
+Here is a rough diagram of what the 3 pieces of lumber that make up a side support look like (click to view full size).
 
 {% include image.html img="IMG_1454.jpg" alt="Side Support Design" caption="Side support/side panel design" text-align="center" %}
 
@@ -93,7 +98,7 @@ The mending plate themselves are not enough to hold the pieces together, screw a
 
 {% include image.html img="IMG_1068.jpg" alt="One side assembled" caption="One side assembled" text-align="center" %}
 
-The lumber onto which the wall frame will be attached to needs to get a second cut on each 60 degress angles in order to make the stud flush with the bottom/top plates.
+The lumber onto which the wall frame will be attached to needs to get a second cut on each 60 degrees angles in order to make the stud flush with the bottom/top plates.
 
 ## The wall frame
 
@@ -102,7 +107,7 @@ A good pre-read is [Metolius Home Wall guide][metolius-build-home-wall], mostly 
 The wall frame is made of:
 * 1 top plate using a 2x6x10 lumber
 * 1 bottom plate using a 2x6x8 lumber
-* 7 studs which are cut at 30% angle. Keep the scrap to make your blocking with later.
+* 7 studs (using 2x6x10) which are cut at 30% angle. Keep the scrap to make your blocking with later.
 
 The top plate is slightly more than 8 feet so the top frame can rest on the side supports. While at it, I left all the spare length from the 10 feet lumber so I can reuse this to hang stuff or what not. With a 30° wall, the top plate is at roughly 7 feet high, which is more than enough to circulate under. If needed, I can cut it at a later stage.
 
@@ -112,7 +117,7 @@ When cutting the studs, take into account that you need to leave more than 8 fee
 
 I assembled the top and bottom plates with the external studs and placed the joist hangers onto the top plate (the ones on the bottom plates are being added when attaching the studs). Joist hanger are 16" apart on center. Made the frame square by verifying that the diagonals are equals, screwed the top and bottom plates to the external studs.
 
-With that frame, I brought it inside and fit it onto the top of the side supports, another pair of hand and a few clamps are really useful at that stage. You better do this before adding the internal studs or it will become very heavy.
+With that frame, I brought it inside and fit it onto the top of the side supports, another pair of hands and a few clamps are really useful at that stage. You better do this before adding the internal studs or it will become very heavy.
 
 {% include image.html img="IMG_1069.jpg" alt="Attaching the wall frame to the side supports" caption="Attaching the wall frame to the side supports" text-align="center" %}
 
@@ -125,7 +130,7 @@ Once done with that, use the scrap wood from the stud cuts and cut:
 * 2x 15"1/4 pieces
 * 5x 16" pieces
 
-use them as blocking by screwing them at the 4 feet mark of your stud, on center. See page 5 of the [Metolius Home Wall guide][metolius-build-home-wall] to see how to screw them to the stud.
+use them as blocking by screwing them at the 4 feet mark of your stud, on center. Refer to page 5 of the [Metolius Home Wall guide][metolius-build-home-wall] to see how to screw them to the stud.
 
 Mark all your studs at the 4 feet mark, it will be useful later when you are going to position the plywood. Likewise, mark the bottom and top plate at the 16 inch on center mark, it will be useful to locate where to screw the plywood so you don't miss the studs.
 
@@ -133,22 +138,21 @@ Mark all your studs at the 4 feet mark, it will be useful later when you are goi
 
 ## Hole Pattern
 
-As much as I have written this section after the framing, this can really be done at the same time than the framing.
+As much as I have written this section after the framing, this can really be done at the same time than the framing as they are independent tasks.
 
 I used a 4 inch grid pattern, starting 2 inches from the edge. This fits perfectly on a frame with studs 16 inches on center. It is a lot of holes to make and t-nuts to hammer though. [Atomik website has a few more layouts][atomik-tnut-layouts].
 
 **Important**: You want to make sure that the holes you are drilling are not going to fall on a stud or blocking.
 
-Using a chalk line, draw your 4 inch grid on one of the nice side of plywood sheet. Stack it over the second sheet, align them and secure them with clamps.
+Using a chalk line, draw your 4 inch grid on one of the nice side of plywood sheet, e.g the face where you will attach the holds. Stack it over the second sheet, align them and secure them with clamps.
 
-Use a 7/16 spade bit to bore holes and drill every other holes of the grid, alternating on each row. The drill guide can become handy to make boring holes vertically easier.
+Use a 7/16 spade bit to bore holes and drill every other holes of the grid, alternating on each row. The drill guide can become handy to make boring holes vertically easier and straighter.
 
 {% include image.html img="IMG_1432.jpg" alt="Drilling holes" caption="Drilling holes" text-align="center" %}
 
-Flip the plywood and hammer the t-nuts in.
+Flip the plywood, removing wood chips, and hammer the t-nuts in.
 
 {% include image.html img="IMG_1433.jpg" alt="t-nuts" caption="Hammering T-nuts in" text-align="center" %}
-
 
 For the side panel plywood, I positioned the piece over the support and drew a rough location of the side support stud in order to not bore holes at a stud location. Then, I traced a 8 inch grid with an offset of 6 inch from the bottom.
 
@@ -164,9 +168,9 @@ Now that the plywood is ready, position one sheet against the bottom part of the
 
 
 Once happy with alignment, put a couple of 2" screws and, using the marks done on your bottom plate, use the chalk line to draw line along the center of the studs.
-Mark the sides at every 6 inches (see [page 6 of Metolius Home Wall guide][metolius-build-home-wall]), use the chalf line and finish your grid. Screw a 2" screw at every intersections on the grid.
+Mark the sides at every 6 inches (see [page 6 of Metolius Home Wall guide][metolius-build-home-wall]), use the chalk line and finish your grid. Screw a 2" screw at every intersections on the grid.
 
-If you have put blocking, also add an another screw in between each studs into the blocking.
+If you have put blocking, also add another screw in between each studs into the blocking.
 
 Next, set the top, this can be a bit more tricky and having someone to help is definitely of big help. One trick is to lift the plywood and let it rest on a step ladder, thread a rope in a couple of t-nuts close to the middle of the top plate, and secure the plywood to the frame. If the ply was going to slip, it will be hanging rather than falling on you.
 
@@ -197,7 +201,7 @@ There is plenty of opportunities to reclaim some of the space lost in storage by
 {% include image.html img="IMG_1465.jpg" alt="SBackside" caption="Backside: handy storage" text-align="center" %}
 
 
-# Mistake made
+# Mistakes made
 
 I did a few mistakes when building this wall and we will see over time how this turn outs.
 
@@ -207,11 +211,14 @@ I did a few mistakes when building this wall and we will see over time how this 
 
 # Useful resources
 
+Here is a far from exhaustive list of links I have found useful. There is a plethora of Youtube Video that came in handy to better understand how to build this.
+
 * [Scoring cheap holds](https://www.routesite.co/writings/how-to-score-cheap-holds-without-breaking-the-bank) and their page tracking [climbing hold deals](https://www.routesite.co/resources-1/climbing-hold-deals-tracker)
 * [Atomik Climbing T-Nut Layouts][atomik-tnut-layouts]
 * [Free-standing 30° wall][freestanding-wall-30deg]
 * [Free-standing with top panel][freestanding-wall-top-panel]
 * [Metolius’s How to Build a Home Bouldering Wall][metolius-build-home-wall]
+* [Triangle Calculator](https://www.calculator.net/triangle-calculator.html)
 
 [atomik-tnut-layouts]: <https://www.atomikclimbingholds.com/t-nut-layouts> "Atomik Climbing T-Nut Layouts"
 [freestanding-wall-30deg]: <https://www.reddit.com/r/climbing/comments/2bp5a0/my_30_freestanding_wall/> "Free-standing 30° wall"

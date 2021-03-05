@@ -10,7 +10,8 @@ title:  Building a Home Climbing Wall
 
 # TL;DR
 
-![The home wall](/assets/IMG_1464.jpg){:width="400px"}
+{% include image.html img="IMG_1464.jpg" alt="The home wall" caption="The home wall" text-align="center" %}
+
 
 A lot of homeWall writeups and youtube went into the final making of mine, but if there is 2 that were mostly used as inspiration, they are probably [this one][freestanding-wall-30deg] and [that one][freestanding-wall-top-panel].
 
@@ -79,30 +80,18 @@ The supports and the frame are not directly in contact, but a spacing of about 3
 
 Here is a rough diagram of what the 3 pieces of lumber that make up a side support look like.
 
-{:refdef: style="text-align: center;"}
-![Side Support Design](/assets/IMG_1454.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Side support/side panel design
-{: refdef}
-
+{% include image.html img="IMG_1454.jpg" alt="Side Support Design" caption="Side support/side panel design" text-align="center" %}
 
 After cutting the pieces of lumber, I attached them together using 1 mending plate for each joint and a couple of 3" screw.
 
 The mending plate themselves are not enough to hold the pieces together, screw a couple of 3" screws to hold the lumbers together, flip the support over and add the mending plates on the other side.
 
-{:refdef: style="text-align: center;"}
-![Side Support Cuts](/assets/IMG_1434.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Putting the pieces together
-{: refdef}
-{:refdef: style="text-align: center;"}
-![One side assembled](/assets/IMG_1068.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-One side assembled
-{: refdef}
+
+{% include image.html img="IMG_1434.jpg" alt="Side Support Cuts" caption="Putting the pieces together" text-align="center" %}
+
+
+
+{% include image.html img="IMG_1068.jpg" alt="One side assembled" caption="One side assembled" text-align="center" %}
 
 The lumber onto which the wall frame will be attached to needs to get a second cut on each 60 degress angles in order to make the stud flush with the bottom/top plates.
 
@@ -119,33 +108,17 @@ The top plate is slightly more than 8 feet so the top frame can rest on the side
 
 When cutting the studs, take into account that you need to leave more than 8 feet between each 30 degree cuts because you also need to account for the cut to make the stud flush with the bottom and top plates (as well as the joist hangers).
 
-
-{:refdef: style="text-align: center;"}
-![Wall Frame design](/assets/IMG_1453.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Wall Frame and Studs
-{: refdef}
+{% include image.html img="IMG_1453.jpg" alt="Wall Frame design" caption="Wall Frame and Studs" text-align="center" %}
 
 I assembled the top and bottom plates with the external studs and placed the joist hangers onto the top plate (the ones on the bottom plates are being added when attaching the studs). Joist hanger are 16" apart on center. Made the frame square by verifying that the diagonals are equals, screwed the top and bottom plates to the external studs.
 
 With that frame, I brought it inside and fit it onto the top of the side supports, another pair of hand and a few clamps are really useful at that stage. You better do this before adding the internal studs or it will become very heavy.
 
-{:refdef: style="text-align: center;"}
-![Attaching the wall frame to the side supports](/assets/IMG_1069.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Attaching the wall frame to the side supports
-{: refdef}
+{% include image.html img="IMG_1069.jpg" alt="Attaching the wall frame to the side supports" caption="Attaching the wall frame to the side supports" text-align="center" %}
 
 With the wall frame fixed on the side supports, you can start positioning the internal studs into the joist hangers on the top plate, place the stud to be 16 on center on the bottom plate, install the joist hangers on the bottom plate and start screwing the studs to the joist hangers using the 1-1/4 screws.
 
-{:refdef: style="text-align: center;"}
-![Adding the studs](/assets/IMG_1071.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Attaching the studs
-{: refdef}
+{% include image.html img="IMG_1071.jpg" alt="Adding the studs" caption="Adding the studs" text-align="center" %}
 
 Once done with that, use the scrap wood from the stud cuts and cut:
 
@@ -156,15 +129,7 @@ use them as blocking by screwing them at the 4 feet mark of your stud, on center
 
 Mark all your studs at the 4 feet mark, it will be useful later when you are going to position the plywood. Likewise, mark the bottom and top plate at the 16 inch on center mark, it will be useful to locate where to screw the plywood so you don't miss the studs.
 
-
-{:refdef: style="text-align: center;"}
-![Assembly](/assets/IMG_1452.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Assembly
-{: refdef}
-
-
+{% include image.html img="IMG_1452.jpg" alt="Assembly" caption="Assembly" text-align="center" %}
 
 ## Hole Pattern
 
@@ -178,30 +143,16 @@ Using a chalk line, draw your 4 inch grid on one of the nice side of plywood she
 
 Use a 7/16 spade bit to bore holes and drill every other holes of the grid, alternating on each row. The drill guide can become handy to make boring holes vertically easier.
 
-{:refdef: style="text-align: center;"}
-![drilling holes](/assets/IMG_1432.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Drilling holes
-{: refdef}
+{% include image.html img="IMG_1432.jpg" alt="Drilling holes" caption="Drilling holes" text-align="center" %}
 
 Flip the plywood and hammer the t-nuts in.
 
-{:refdef: style="text-align: center;"}
-![t-nuts](/assets/IMG_1433.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Hammering T-nuts in
-{: refdef}
+{% include image.html img="IMG_1433.jpg" alt="t-nuts" caption="Hammering T-nuts in" text-align="center" %}
+
 
 For the side panel plywood, I positioned the piece over the support and drew a rough location of the side support stud in order to not bore holes at a stud location. Then, I traced a 8 inch grid with an offset of 6 inch from the bottom.
 
-{:refdef: style="text-align: center;"}
-![side panel](/assets/IMG_1439.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Side Panel
-{: refdef}
+{% include image.html img="IMG_1439.jpg" alt="Side Panel" caption="Side Panel" text-align="center" %}
 
 # Assembling plywood to the frame
 
@@ -209,12 +160,8 @@ Now that the plywood is ready, position one sheet against the bottom part of the
 
 **Important**: If you are going to put side panels later, make sure you leave enough room (3/4") between the side support and the plywood sheets so you can slide it though later.
 
-{:refdef: style="text-align: center;"}
-![bottom plywood sheet](/assets/IMG_1437.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Bottom Plywood sheet
-{: refdef}
+{% include image.html img="IMG_1437.jpg" alt="Bottom Plywood sheet" caption="Bottom Plywood sheet" text-align="center" %}
+
 
 Once happy with alignment, put a couple of 2" screws and, using the marks done on your bottom plate, use the chalk line to draw line along the center of the studs.
 Mark the sides at every 6 inches (see [page 6 of Metolius Home Wall guide][metolius-build-home-wall]), use the chalf line and finish your grid. Screw a 2" screw at every intersections on the grid.
@@ -227,14 +174,7 @@ Apply the plywood against the frame and make it flush with the bottom sheet. Sec
 
 Like with the bottom sheet, you will want to make a grid with a chalk line to know where to put the screws. Use the marks from the chalk line on the bottom sheet, the ones you made previously in the top plate, and every 6 inches on the side.
 
-{:refdef: style="text-align: center;"}
-![top plywood sheet](/assets/IMG_1073.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Top Plywood sheet
-{: refdef}
-
-
+{% include image.html img="IMG_1073.jpg" alt="Top Plywood sheet" caption="Top Plywood sheet" text-align="center" %}
 
 # Top Panel
 
@@ -250,26 +190,12 @@ I am pretty happy with the final result. The extra effort in making the side pan
 
 There is plenty of opportunities to reclaim some of the space lost in storage by adding shelves to the back of the wall. Stuff like scooters, skateboards have already found their new home there.
 
+{% include image.html img="IMG_1464.jpg" alt="Main Wall" caption="Main Wall: the side panel make for more interesting and kids-friendlier routes" text-align="center" %}
 
+{% include image.html img="IMG_1466.jpg" alt="Side view" caption="Side view" text-align="center" %}
 
-{:refdef: style="text-align: center;"}
-![main wall](/assets/IMG_1464.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Main Wall: the side panel make for more interesting and kids-friendly  routes
-{: refdef}
-{:refdef: style="text-align: center;"}
-![Side view](/assets/IMG_1466.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Side view
-{: refdef}
-{:refdef: style="text-align: center;"}
-![Backside](/assets/IMG_1465.jpg){:width="400px"}
-{: refdef}
-{:refdef: style="text-align: center;"}
-Backside: handy storage
-{: refdef}
+{% include image.html img="IMG_1465.jpg" alt="SBackside" caption="Backside: handy storage" text-align="center" %}
+
 
 # Mistake made
 

@@ -24,8 +24,9 @@ A lot of home wall writeups and youtube went into the final making of mine, but 
 When I built this wall, I wanted it to be:
 - Freestanding: my garage has a lot of storage along the walls which I did not want to rip out, I was not confident in using the ceiling beams to attached to and did not want to call a structural engineer to validate they would be OK.
 - Indoor: being indoor, I did not bother treating the wood or using weather-proof screws.
+- Kickboard: I was not sure if there were going to be enough clearance between the top of the wall and the garage door opener, the structure seemed more complex to do (based on my limited knowledge), and after much analysis paralysis, I decided to do without and get moving forward.
 
-# Bill of Material
+# Bill of Materials
 
 This is exactly what was used to build the wall:
 
